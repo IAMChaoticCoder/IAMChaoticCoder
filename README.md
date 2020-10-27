@@ -1,13 +1,13 @@
 ### Hi there, I'm Matt - aka [ChaoticCoder] 👋
 
 [![Website](https://img.shields.io/website?label=IAMChaoticCoder.com&style=for-the-badge&url=https%3A%2F%2Fchaoticcoder.com)](https://iamchaoticcoder.com/)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/chaoticcoder/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FIAMChaoticCoder&screen_name=ChaoticCoder)
+[![Twitter] (https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/chaoticcoder/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FIAMChaoticCoder&screen_name=ChaoticCoder)
 
 ## I'm a Husband, Dad, and Developer.
 
 - 🌱 I’m currently learning Solidity and everything Blockchain / Front-end 🤣
 - 🥅 2021 Goals: Contribute more to my Github and work in the Blockchain space
-- ⚡ Fun fact: I love to create art and photography
+- ⚡ Fun fact: I love to create multi-medium art and photography
 
 
 
@@ -30,9 +30,6 @@
 [<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />]
 [<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />]
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />]
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />]
-[<img align="left" alt="Adobe PhotoShop" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />]
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />]
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />]
 
 
