@@ -1,7 +1,7 @@
 ### Hi there, I'm Matt - aka [ChaoticCoder] 👋
 
 [![Website](https://img.shields.io/badge/IAMCHAOTICCODER-online-brightgreen)](https://iamchaoticcoder.com/)
-[![Twitter follow] (https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/chaoticcoder/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FIAMChaoticCoder&screen_name=ChaoticCoder)
+[![Twitter follow] (https://img.shields.io/badge/Twitter-follow-blue)](https://twitter.com/chaoticcoder/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FIAMChaoticCoder&screen_name=ChaoticCoder)
 
 ## I'm a Husband, Dad, and Developer.
 
