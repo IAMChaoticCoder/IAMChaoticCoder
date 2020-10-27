@@ -46,7 +46,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-
+- [Kraken is Alive – First Crypto Exchange with US Bank Charter](https://iamchaoticcoder.com/blog/?p=123)
+- [Blockchain Interoperability](https://iamchaoticcoder.com/blog/?p=114)
+- [Blockchain Social Media](https://iamchaoticcoder.com/blog/?p=105)
+- [First Contract](https://iamchaoticcoder.com/blog/?p=87)
+- [Changing My Thoughts on Wireframes](https://iamchaoticcoder.com/blog/?p=83)
 <!-- BLOG-POST-LIST:END -->
 
 
